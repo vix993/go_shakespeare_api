@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-func main() {
+func ReadJsonFile() {
 	jsonFile, err := os.Open("shakespeare.json")
 
 	if err != nil {
