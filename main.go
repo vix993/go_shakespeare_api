@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	ReadJsonFile()
+	read - json - file.ReadJsonFile()
 }
